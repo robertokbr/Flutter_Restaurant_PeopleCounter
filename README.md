@@ -17,5 +17,5 @@ This's a sample project  to get start in flutter mobile apps.
 (the last screenshot is a joke)
 
 # Getting Started
-For help getting started with Flutter, view our online
+For help getting started with Flutter, view online
 [documentation](https://flutter.io/).
