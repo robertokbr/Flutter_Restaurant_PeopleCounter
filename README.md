@@ -13,6 +13,7 @@ This's a sample project  to get start in flutter mobile apps.
 
 
 ## Screenshot
+<align="center">
 <img src="https://github.com/robertokbr/Flutter_Restaurant_PeopleCounter/blob/master/screenshot.png" height="300em" /> 
 (the last screenshot is a joke)
 
